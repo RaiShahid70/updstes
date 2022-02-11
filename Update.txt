@@ -1,1 +1,1 @@
-{ ver1 : 'v40' ,  ver2 : '0' ,  ver3 : 'Your Whatsapp New Changes' ,  dli : 'https://youtu.be/UJGP4sK9PnE' }
+{ ver1 : '40' ,  ver2 : '0' ,  ver3 : 'Your Whatsapp New Changes' ,  dli : 'https://youtu.be/UJGP4sK9PnE' }
