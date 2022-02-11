@@ -1,1 +1,1 @@
-{ ver1 : '15' ,  ver2 : '0' ,  ver3 : '\nتحديث جديد واتساب احمد وائل\nقم بتنزيل احدث اصدار عبر الضغط تنزيل بالاسفل\n' ,  dli : 'https://unity-ios-team.blogspot.com/?m=1' }
+{ ver1 : '13' ,  ver2 : '0' ,  ver3 : 'Your Whatsapp New Changes' ,  dli : 'https://unity-ios-team.blogspot.com/?m=1' }
