@@ -1,1 +1,1 @@
-{ ver1 : 13 ,  ver2 : 0 ,  ver3 : \nتحديث جديد واتساب احمد وائل\nقم بتنزيل احدث اصدار عبر الضغط تنزيل بالاسفل\n ,  dli : http://www.ahmedwael.eu.org/search/label/AP%20Whatsapp?m=1 }
+{ ver1 : '13' ,  ver2 : '0' ,  ver3 : '\nتحديث جديد واتساب احمد وائل\nقم بتنزيل احدث اصدار عبر الضغط تنزيل بالاسفل\n' ,  dli : 'https://unity-ios-team.blogspot.com/?m=1' }
