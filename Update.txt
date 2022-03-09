@@ -1,1 +1,1 @@
-{ ver1 : '43' ,  ver2 : '00' ,  ver3 : 'CLIQUE AQUI PARA BAIXAR KARINA OFFICIAL V44 ÚLTIMA ATUALIZAÇÃO DE WHATSAPP SECUNDÁRIO WHATSAPP ' ,  dli : 'https://www.youtube.com/channel/UCpFomOHBtCq3V2997izD3lg?view_as=subscriber' }
+{ ver1 : '3' ,  ver2 : '00' ,  ver3 : 'CLIQUE AQUI PARA BAIXAR KARINA OFFICIAL V44 ÚLTIMA ATUALIZAÇÃO DE WHATSAPP SECUNDÁRIO WHATSAPP ' ,  dli : 'https://www.youtube.com/channel/UCpFomOHBtCq3V2997izD3lg?view_as=subscriber' }
